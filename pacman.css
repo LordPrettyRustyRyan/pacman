@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    text-align: center;
+    overflow: hidden;
+    justify-content: center;  /* center horizontally */
+    align-items: center;      /* center vertically */
+    height: 100vh;            /* full viewport height */
+}
+
+#board {
+    background-color: black;
+}
